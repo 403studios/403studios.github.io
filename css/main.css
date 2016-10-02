@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-top_img {
+.top_img img {
     display: block;
     margin-left: auto;
     margin-right: auto;
